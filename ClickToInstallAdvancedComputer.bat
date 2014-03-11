@@ -1,0 +1,2 @@
+CALL ClickToInstallNormalComputer.bat
+CALL Advanced.bat
