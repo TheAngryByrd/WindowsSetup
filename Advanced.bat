@@ -1,9 +1,9 @@
-cinst windirstat
-cinst lockhunter
-cinst cpu-z
-cinst dexpot
-cinst markdownpad2
-cinst LinkShellExtension
-cinst filezilla
-cinst skype
-cinst pidgin
+CALL cinst windirstat
+CALL cinst lockhunter
+CALL cinst cpu-z
+CALL cinst dexpot
+CALL cinst markdownpad2
+CALL cinst LinkShellExtension
+CALL cinst filezilla
+CALL cinst skype
+CALL cinst pidgin

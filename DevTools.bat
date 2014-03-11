@@ -1,9 +1,9 @@
-cinst git
-cinst githubforwindows
-cinst sourcetree
-cinst fiddler4
-cinst linqpad
-cinst winmerge
-cinst firefox
-cinst opera
-cinst smtp4dev
+CALL cinst git
+CALL cinst githubforwindows
+CALL cinst sourcetree
+CALL cinst fiddler4
+CALL cinst linqpad
+CALL cinst winmerge
+CALL cinst firefox
+CALL cinst opera
+CALL cinst smtp4dev

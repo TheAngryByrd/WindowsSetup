@@ -1,10 +1,10 @@
-cinst 7zip
-cinst foxitreader
-cinst googlechrome
-cinst vlc
-cinst SublimeText3
-cinst dropbox
-cinst paint.net
-cinst keepass
-cinst adblockplusie
-cinst adblockpluschrome
+CALL cinst 7zip
+CALL cinst foxitreader
+CALL cinst googlechrome
+CALL cinst vlc
+CALL cinst SublimeText3
+CALL cinst dropbox
+CALL cinst paint.net
+CALL cinst keepass
+CALL cinst adblockplusie
+CALL cinst adblockpluschrome
