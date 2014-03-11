@@ -1,0 +1,9 @@
+cinst windirstat
+cinst lockhunter
+cinst cpu-z
+cinst dexpot
+cinst markdownpad2
+cinst LinkShellExtension
+cinst filezilla
+cinst skype
+cinst pidgin

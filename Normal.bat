@@ -1,0 +1,10 @@
+cinst 7zip
+cinst foxitreader
+cinst googlechrome
+cinst vlc
+cinst SublimeText3
+cinst dropbox
+cinst paint.net
+cinst keepass
+cinst adblockplusie
+cinst adblockpluschrome

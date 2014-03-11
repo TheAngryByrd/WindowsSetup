@@ -1,0 +1,9 @@
+cinst git
+cinst githubforwindows
+cinst sourcetree
+cinst fiddler4
+cinst linqpad
+cinst winmerge
+cinst firefox
+cinst opera
+cinst smtp4dev
